@@ -1,5 +1,6 @@
-# tpltest
-Triple Point Hyper Ledger and .ts API Code Test
+# Bluepoint
+
+A blueprint for code experiments on the Triple Point platform.
 
 ## Set up the hyperledger network
 ```sh
@@ -31,7 +32,7 @@ cd tpltest  # if needed
 
 ```sh
 
-cd tpltest  # if needed
+cd tpltest  # if needednt
 
 cd asset-transfer-basic/application-typescript
 npm run start
